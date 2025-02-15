@@ -11,7 +11,7 @@
   {
     "id": "hentaiyaoi",
     "name": "HentaiYaoi",
-    "lang": "en",
+    "lang": "pt",
     "version": 1,
     "apkUrl": "https://hentaiyaoi.net/.apk",
     "updateUrl": "https://hentaiyaoi.net/.update.json"
